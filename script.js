@@ -31,7 +31,8 @@ const galleryItems = [
     document.querySelector('.gallery-a'),
     document.querySelector('.gallery-b'),
     document.querySelector('.gallery-c'),
-    document.querySelector('.gallery-d')
+    document.querySelector('.gallery-d'),
+	document.querySelector('.gallery-e')
 ];
 
 let currentIndex = 0;

@@ -178,6 +178,9 @@ h2 {
 .gallery-d {
 	background-image: url("https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=700&q=85");
 }
+.gallery-e {
+	background-image: url("./images/zdjecie1.jpg");
+}
 
 .gallery-item.is-main {
     grid-column: 1;
